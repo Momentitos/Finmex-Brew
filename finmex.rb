@@ -1,8 +1,9 @@
 class Finmex < Formula
   desc "Calculadora financiera especial para productos financieros mexicanos"
-  homepage "https://github.com/Momentitos/Finmex-Brew#"
-  url "https://github.com/Momentitos/finmex/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "EL_HASH_QUE_OBTUVISTE_EN_EL_PASO_3"
+  homepage "https://github.com/Momentitos/Finmex-Brew"
+  url "https://github.com/Momentitos/Finmex-Brew/releases/download/Finmex-Brew/finmex.tar.gz"
+  version "1.0.0"
+  sha256 "4748cea10f60e61047f557e0c0544a28a512af6937a5c6fa5f883311f9bca9dc"
   license "MIT"
 
   depends_on "go" => :build
