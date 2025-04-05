@@ -1,6 +1,6 @@
 class Finmex < Formula
   desc "Calculadora financiera especial para productos financieros mexicanos"
-  homepage "https://github.com/Momentitos/finmex"
+  homepage "https://github.com/Momentitos/Finmex-Brew#"
   url "https://github.com/Momentitos/finmex/archive/refs/tags/v1.0.0.tar.gz"
   sha256 "EL_HASH_QUE_OBTUVISTE_EN_EL_PASO_3"
   license "MIT"
